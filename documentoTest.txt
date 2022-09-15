@@ -1,3 +1,0 @@
-Esta es la verdadera prueba número 2 para ver como editar en Git
-
-pd: esto va bien
