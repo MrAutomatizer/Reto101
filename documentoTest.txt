@@ -1,3 +1,3 @@
-Ya no estamos probando Git
-Estamos fluyendo en Git!
-pd: esto va rebien
+Esta es la verdadera prueba número 2 para ver como editar en Git
+
+pd: vengo del futuro esto sera un cambio
