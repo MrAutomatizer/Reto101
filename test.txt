@@ -1,1 +1,2 @@
-Esta es la prueba número 2 para ver como editar en Git y Github 
+Listo ahora este archico sera el oficial de pruebas
+pd:vamos a darleee
